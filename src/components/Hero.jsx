@@ -33,8 +33,8 @@ const Hero = () => {
             <br className="sm:" /> ReactJs e API's usando NodeJs
           </p>
         </div>
-        <ComputersCanvas />
       </div>
+      <ComputersCanvas />
     </section>
   );
 };
